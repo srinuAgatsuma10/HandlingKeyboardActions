@@ -1,4 +1,4 @@
-package internetHerokuApp;
+package theInternetHerokuApp;
 
 import java.time.Duration;
 
